@@ -4,6 +4,7 @@ import BuildSkills from "../components/BuildSkills";
 import LearningPathSection from "../components/LearningPathSection";
 import ProfessionalGrowth from "../components/ProfessionalGrowth";
 import PotentialCreators from "../components/PotentialCreators";
+import Testimonials from "../components/Testimonials";
 
 const Home = () => {
     return (
@@ -14,6 +15,7 @@ const Home = () => {
             <LearningPathSection />
             <ProfessionalGrowth />
             <PotentialCreators />
+            <Testimonials />
         </div>
     );
 };
