@@ -3,6 +3,7 @@ import LogoSlider from "../components/LogoSlider";
 import BuildSkills from "../components/BuildSkills";
 import LearningPathSection from "../components/LearningPathSection";
 import ProfessionalGrowth from "../components/ProfessionalGrowth";
+import PotentialCreators from "../components/PotentialCreators";
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <BuildSkills />
             <LearningPathSection />
             <ProfessionalGrowth />
+            <PotentialCreators />
         </div>
     );
 };
