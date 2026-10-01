@@ -369,14 +369,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Font from [Google Fonts](https://fonts.google.com/)
 - React community for excellent documentation and support
 
-## 📧 Contact
-
-For questions, suggestions, or support:
-
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Website**: [bytespace.com](https://bytespace.com)
-
 ## 📊 Browser Support
 
 ByteSpace supports all modern browsers:
